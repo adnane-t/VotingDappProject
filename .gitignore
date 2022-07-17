@@ -1,0 +1,6 @@
+index.md
+client/node_modules/
+client/package-lock-json
+truffle/.env
+truffle/node_modules/
+LICENSE

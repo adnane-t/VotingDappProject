@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VotingDappProject/static/css/main.5d94ea8f.chunk.css",
-    "main.js": "/VotingDappProject/static/js/main.4828a72b.chunk.js",
-    "main.js.map": "/VotingDappProject/static/js/main.4828a72b.chunk.js.map",
+    "main.js": "/VotingDappProject/static/js/main.cff4f4de.chunk.js",
+    "main.js.map": "/VotingDappProject/static/js/main.cff4f4de.chunk.js.map",
     "runtime-main.js": "/VotingDappProject/static/js/runtime-main.53bf6c3a.js",
     "runtime-main.js.map": "/VotingDappProject/static/js/runtime-main.53bf6c3a.js.map",
     "static/js/2.32768d0f.chunk.js": "/VotingDappProject/static/js/2.32768d0f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.53bf6c3a.js",
     "static/js/2.32768d0f.chunk.js",
     "static/css/main.5d94ea8f.chunk.css",
-    "static/js/main.4828a72b.chunk.js"
+    "static/js/main.cff4f4de.chunk.js"
   ]
 }

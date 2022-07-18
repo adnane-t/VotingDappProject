@@ -34,7 +34,7 @@ function VoteResult({ setValue }) {
             <tbody>
               {storageProposal.map((item, index) => (
                 <tr key={index}>
-                  <td>Proposal ID : {index}</td>
+                  <td>Proposal ID : {item}</td>
                 </tr>
               ))}
             </tbody>
